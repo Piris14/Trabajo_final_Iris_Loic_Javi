@@ -75,8 +75,8 @@ Similarity calculation using KNN (NearestNeighbors)
 
 ## Authors
 
-Iris Muñoz 
-Loïc Barbera
+Iris Muñoz, 
+Loïc Barbera,
 Javier Gonzalez
 
 ## License
